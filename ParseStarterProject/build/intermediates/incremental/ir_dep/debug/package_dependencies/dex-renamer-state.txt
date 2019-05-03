@@ -1,0 +1,7 @@
+#Wed May 01 14:36:49 ALMT 2019
+base.0=/Users/AlisherAbdrakhmanov/Desktop/Parse-Server-Starter-Project-3/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/AlisherAbdrakhmanov/Desktop/Parse-Server-Starter-Project-3/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
